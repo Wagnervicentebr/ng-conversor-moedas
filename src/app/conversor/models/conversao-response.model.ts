@@ -1,4 +1,4 @@
-export class Conversao {
+export class ConversaoResponse {
     
     constructor(
         public base?: string,
